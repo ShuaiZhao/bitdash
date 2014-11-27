@@ -2,6 +2,8 @@
 
 This is a sample page for the bitdash MPEG-DASH player for HTML5 (MSE) as well as Flash. 
 
+![bitdash MPEG-DASH Demo](https://raw.githubusercontent.com/slederer/bitdash/master/screenshot.png "bitdash MPEG-DASH Demo Page")
+
 This demo can be also found at http://www.dash-player.com/bitdash_github_demo/ 
 
 ## Howto Install
