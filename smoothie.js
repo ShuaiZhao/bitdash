@@ -741,7 +741,7 @@
     if (!chartOptions.labels.disabled && !isNaN(this.valueRange.min) && !isNaN(this.valueRange.max)) {
       /*var maxValueString = chartOptions.yMaxFormatter(this.valueRange.max, chartOptions.labels.precision),
             minValueString = chartOptions.yMinFormatter(this.valueRange.min, chartOptions.labels.precision);*/
-      var maxValueString = '1700kbps',
+      var maxValueString = '7000kbps',
           minValueString = '0kbps';
       context.fillStyle = chartOptions.labels.fillStyle;
       context.fillText(maxValueString, dimensions.width - context.measureText(maxValueString).width - 2, chartOptions.labels.fontSize);
